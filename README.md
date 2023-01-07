@@ -10,7 +10,7 @@ Screenshots
 -----------
 
 
-**SignUp Page
+**SignUp Page**
 
 ![2023-01-06 (8)](https://user-images.githubusercontent.com/83487694/211128951-f4af574c-ded3-449c-b10f-79063b92ff49.png)
 
