@@ -11,12 +11,14 @@ Screenshots
 
 
 **SignUp Page**
+-----------
 
 ![2023-01-06 (8)](https://user-images.githubusercontent.com/83487694/211128951-f4af574c-ded3-449c-b10f-79063b92ff49.png)
 
 
 
 **Login Page**
+-----------
 
 ![2023-01-06 (9)](https://user-images.githubusercontent.com/83487694/211129018-ff9bcaac-76ad-474b-bab9-8f9a604471b3.png)
 
