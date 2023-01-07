@@ -10,9 +10,10 @@ Screenshots
 -----------
 
 
-# **SignUp Page**
+**SignUp Page**
 
 ![2023-01-06 (8)](https://user-images.githubusercontent.com/83487694/211128951-f4af574c-ded3-449c-b10f-79063b92ff49.png)
+
 
 
 **Login Page**
@@ -20,14 +21,17 @@ Screenshots
 ![2023-01-06 (9)](https://user-images.githubusercontent.com/83487694/211129018-ff9bcaac-76ad-474b-bab9-8f9a604471b3.png)
 
 
+
 **All Blogs**
 
 ![2023-01-06 (10)](https://user-images.githubusercontent.com/83487694/211129099-d3552625-d186-4275-979d-7e9ff4f8597a.png)
 
 
+
 **My Blogs**
 
 ![2023-01-06 (11)](https://user-images.githubusercontent.com/83487694/211129128-7a9ef36e-a77d-4f62-aec0-ef2dd4834978.png)
+
 
 
 **Add Blog**
