@@ -25,18 +25,21 @@ Screenshots
 
 
 **All Blogs**
+-----------
 
 ![2023-01-06 (10)](https://user-images.githubusercontent.com/83487694/211129099-d3552625-d186-4275-979d-7e9ff4f8597a.png)
 
 
 
 **My Blogs**
+-----------
 
 ![2023-01-06 (11)](https://user-images.githubusercontent.com/83487694/211129128-7a9ef36e-a77d-4f62-aec0-ef2dd4834978.png)
 
 
 
 **Add Blog**
+-----------
 
 ![2023-01-06 (12)](https://user-images.githubusercontent.com/83487694/211129144-4aec0ee2-1f0b-46de-91d8-f844edecd36a.png)
 
