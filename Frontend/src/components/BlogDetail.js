@@ -34,6 +34,7 @@ const BlogDetail = () => {
       setInputs({
         title: data.blog.title,
         description: data.blog.description,
+        image: data.blog.image,
       })
     });
   }, [id]);
@@ -44,6 +45,7 @@ const BlogDetail = () => {
       .put(`http://localhost:5000/api/blog/update/${id}`, {
         title: inputs.title,
         description: inputs.description,
+        image: inputs.image,
       })
       .catch((err) => console.log(err));
 
@@ -97,6 +99,14 @@ const BlogDetail = () => {
               name="description"
               onChange={handleChange}
               value={inputs.description}
+              margin="auto"
+              variant="outlined"
+            />
+            <InputLabel sx={labelStyles}>Image URL</InputLabel>
+            <TextField
+              name="image"
+              onChange={handleChange}
+              value={inputs.image}
               margin="auto"
               variant="outlined"
             />
