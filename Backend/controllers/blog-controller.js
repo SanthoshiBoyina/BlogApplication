@@ -25,7 +25,7 @@ export const addBlog = async (req, res, next) => {
     return console.log(err);
   }
   if (!existingUser) {
-    return res.status(400).json({ message: "Unable TO FInd User By This ID" });
+    return res.status(400).json({ message: "Unable TO Find User By This ID" });
   }
   const blog = new Blog({
     title,
@@ -51,13 +51,14 @@ export const addBlog = async (req, res, next) => {
 
 
 export const updateBlog = async (req, res, next) => {
-  const { title, description } = req.body;
+  const { title, description, image } = req.body;
   const blogId = req.params.id;
   let blog;
   try {
     blog = await Blog.findByIdAndUpdate(blogId, {
       title,
       description,
+      image,
     });
   } catch (err) {
     return console.log(err);
