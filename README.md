@@ -12,34 +12,57 @@ Screenshots
 
 **SignUp Page**
 -----------
+![2023-01-27 (21)](https://user-images.githubusercontent.com/83487694/215034038-c5386028-a8bc-416e-b4ea-b3d81ce44eed.png)
 
-![2023-01-06 (8)](https://user-images.githubusercontent.com/83487694/211128951-f4af574c-ded3-449c-b10f-79063b92ff49.png)
 
 
 
 **Login Page**
 -----------
+![2023-01-27 (22)](https://user-images.githubusercontent.com/83487694/215034183-5313543c-9b22-47fc-9d14-a3aede4a8972.png)
 
-![2023-01-06 (9)](https://user-images.githubusercontent.com/83487694/211129018-ff9bcaac-76ad-474b-bab9-8f9a604471b3.png)
 
 
 
 **All Blogs**
 -----------
+![2023-01-27 (23)](https://user-images.githubusercontent.com/83487694/215034321-667cd4ef-4309-4622-b8e9-acc19eb2c2de.png)
 
-![2023-01-06 (10)](https://user-images.githubusercontent.com/83487694/211129099-d3552625-d186-4275-979d-7e9ff4f8597a.png)
-
-
-
-**My Blogs**
------------
-
-![2023-01-06 (11)](https://user-images.githubusercontent.com/83487694/211129128-7a9ef36e-a77d-4f62-aec0-ef2dd4834978.png)
 
 
 
 **Add Blog**
 -----------
+![2023-01-27 (24)](https://user-images.githubusercontent.com/83487694/215034455-65eb225d-3bc1-4e09-a749-d946d4332e4c.png)
 
-![2023-01-06 (12)](https://user-images.githubusercontent.com/83487694/211129144-4aec0ee2-1f0b-46de-91d8-f844edecd36a.png)
+
+
+
+**My Blogs**
+-----------
+![2023-01-27 (25)](https://user-images.githubusercontent.com/83487694/215034675-b6c84f16-6e80-4e1c-bf19-8f49a6d33f1e.png)
+
+
+
+
+
+**Testing Authentication**
+-----------
+![2023-01-27 (26)](https://user-images.githubusercontent.com/83487694/215034966-2684f7fb-7df4-48ca-9a7d-bd02a42bd16e.png)
+
+
+
+
+
+![2023-01-27 (27)](https://user-images.githubusercontent.com/83487694/215035092-72e623d9-218c-44dc-a864-35a828365a7f.png)
+
+
+
+
+
+![2023-01-27 (28)](https://user-images.githubusercontent.com/83487694/215035202-8fdf5970-c0ab-4088-b3fb-9b4d6b673fe7.png)
+
+
+
+
 
