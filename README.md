@@ -46,6 +46,27 @@ Screenshots
 
 
 
+
+**Editing the blog**
+-----------
+![2023-01-27 (26)](https://user-images.githubusercontent.com/83487694/215111478-5796c736-8ed0-409a-a7fe-0e522b8a9b34.png)
+![2023-01-27 (27)](https://user-images.githubusercontent.com/83487694/215111755-a061b5a2-8a0b-4780-9aef-5dae348cf7f2.png)
+![2023-01-27 (28)](https://user-images.githubusercontent.com/83487694/215111913-68433066-f2a7-41fb-8547-03b84f4a74aa.png)
+
+
+
+
+
+
+**Deleting the blog**
+-----------
+![2023-01-27 (29)](https://user-images.githubusercontent.com/83487694/215112174-8fd5acba-8088-46e0-ac9a-43498d14a487.png)
+
+
+
+
+
+
 **Testing Authentication**
 -----------
 ![2023-01-27 (26)](https://user-images.githubusercontent.com/83487694/215034966-2684f7fb-7df4-48ca-9a7d-bd02a42bd16e.png)
