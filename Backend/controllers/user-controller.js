@@ -63,6 +63,7 @@ export const signup = async (req, res, next) => {
     if (!isPasswordCorrect) {
       return res.status(200).json({ message: "Incorrect Password" });
     }
+    
     return res
       .status(200)
       .json({ message: "Login Successfull", user: existingUser });
