@@ -28,7 +28,7 @@ MongoDB, ReactJS, ExpressJs, NodeJS, MaterialUI, Redux
   - npm i @mui/styles
 4. Start a new terminal, go to directory backend and type "npm start".
 5. Similarly, Start another new terminal, go to directory frontend and type "npm start".
-6. Then we will be redirected to Local host and we can find the Blog Application over there.
+6. Then we will be redirected the to Local host and we can find the Blog Application over there.
 
 
 Screenshots
