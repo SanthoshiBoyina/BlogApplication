@@ -69,7 +69,7 @@ Screenshots
 
 
 
-**Seach over the Blogs**
+**Search over the Blogs**
 -----------
 ![2023-02-11 (2)](https://user-images.githubusercontent.com/83487694/218261473-fa0601ec-6964-46f3-8129-0a7fd704bd13.png)
 
