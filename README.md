@@ -1,9 +1,34 @@
-# BlogApplication
+## Title : Blog Application Using MERN STACK
 
-Description
------------
+## Objective :
+In this MERN STACK Blog Application, a user logins to the application and he can add, edit and delete his own blogs. The user can also view all other blogs present in the Application.
 
-In this MERN STACK Blog Application, a user logins to the application and he can add, edit and delete his own blogs. The user can also view all other blogs present in the Application. The Tech Stack used here is MongoDB, ReactJS, ExpressJs, NodeJS, MaterialUI, Redux.
+## Tools :
+Visual Studio Code
+
+
+## Tech Stack :
+MongoDB, ReactJS, ExpressJs, NodeJS, MaterialUI, Redux
+
+
+## Steps to execute the project :
+1. Install the latest version of NodeJS and Visual Studio Code.
+2. Create a folder named Backend and Install the following dependencies using Command Prompt
+  - npm i nodemon
+  - npm i express
+  - npm i mongoose
+  - npm i bcryptjs
+  - npm i cors
+3. Create a React app in a folder named Frontend using command npx create-react-app frontend and Install the following dependencies using Command Prompt
+  - npm install @mui/material @emotion/react @emotion/styled
+  - npm i react-router-dom
+  - npm i react-redux @reduxjs/toolkit
+  - npm install axios
+  - npm i @mui/icons-material
+  - npm i @mui/styles
+4. Start a new terminal, go to directory backend and type "npm start".
+5. Similarly, Start another new terminal, go to directory frontend and type "npm start".
+6. Then we will be redirected to Local host and we can find the Blog Application over there.
 
 
 Screenshots
