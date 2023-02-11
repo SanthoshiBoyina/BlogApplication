@@ -8,7 +8,7 @@ import { authActions } from "./store";
 import React, { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
-
+import "../src/App.css" 
 function App() {
   const dispath = useDispatch();
   const isLoggedIn = useSelector((state) => state.isLoggedIn);
