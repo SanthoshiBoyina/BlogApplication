@@ -13,13 +13,13 @@ MongoDB, ReactJS, ExpressJs, NodeJS, MaterialUI, Redux
 
 ## Steps to execute the project :
 1. Install the latest version of NodeJS and Visual Studio Code.
-2. Create a folder named Backend and Install the following dependencies using Command Prompt
+2. Create a folder named Backend and Install the following dependencies using Terminal
   - npm i nodemon
   - npm i express
   - npm i mongoose
   - npm i bcryptjs
   - npm i cors
-3. Create a React app in a folder named Frontend using command npx create-react-app frontend and Install the following dependencies using Command Prompt
+3. Create a React app in a folder named Frontend using command npx create-react-app frontend and Install the following dependencies using Terminal
   - npm install @mui/material @emotion/react @emotion/styled
   - npm i react-router-dom
   - npm i react-redux @reduxjs/toolkit
