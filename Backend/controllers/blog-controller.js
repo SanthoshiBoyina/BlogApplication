@@ -94,6 +94,7 @@ export const deleteBlog = async (req, res, next) => {
   } catch (err) {
     return console.log(err);
   }
+  
   if (!blog) {
     return res.status(500).json({ message: "Unable To Delete" });
   }
