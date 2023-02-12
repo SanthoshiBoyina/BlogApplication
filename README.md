@@ -1,7 +1,7 @@
 ## Title : Blog Application Using MERN STACK
 
 ## Objective :
-In this MERN STACK Blog Application, a user logins to the application and can add, edit and delete his own blogs. The user is provided with "Read Only" facility with other user blogs so that the Security of the application is enhanced. This application also provides Search feature over all the blogs. 
+In this MERN STACK Blog Application, a user logins to the application and can add, edit and delete his own blogs. The user is provided with a "Read Only" facility with other user blogs so that the Security of the application is enhanced. This application also provides a Search feature for All the Blogs.
 
 ## Tools :
 Visual Studio Code
