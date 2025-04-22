@@ -1,7 +1,7 @@
 ## Title : Blog Application Using MERN STACK
 
 ## Objective :
-In this MERN STACK Blog Application, a user logins to the application and can add, edit and delete his own blogs. The user is provided with a "Read Only" facility with other user blogs so that the Security of the application is enhanced. This application also provides a Search feature for All the Blogs.
+In this MERN (MongoDB, ExpressJS, ReactJS, NodeJS) STACK Blog Application, users can create, read, update, and delete blog posts. It provides a user-friendly interface for managing blog content, including features like adding new posts and viewing existing posts.
 
 ## Tools :
 Visual Studio Code
