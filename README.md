@@ -1,4 +1,4 @@
-## Title : Blog Application Using MERN STACK
+# Blog Application Using MERN STACK
 
 ## Objective :
 I developed a Blog Application using the MERN stack (MongoDB, Express.js, React.js, and Node.js) that allows users to securely log in to their accounts and manage their personal blogs. The front-end, built with React.js, provides a responsive and user-friendly interface where users can view, create, edit, and delete their blog posts. The backend, powered by Node.js and Express.js, manages the application’s API routes and business logic, while MongoDB serves as the database to store user information and blog content efficiently. This project showcases full-stack development skills with a focus on user authentication, RESTful API design, and real-time UI interaction.
